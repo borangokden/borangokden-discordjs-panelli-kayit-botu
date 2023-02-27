@@ -1,0 +1,57 @@
+{
+    "bot": {
+        "token": "Discord Bot Tokeniniz",
+        "owner": "Sahip id",
+        "prefix": ".",
+        "BotStatus": "Botun durumu",
+        "BotFooter": "Bot footer kısmı durumla aynı olabilir.",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "Tag log kanalı id",
+        "isimlog": "İsim log kanalı id",
+        "rollog": "Rol log kanalı id",
+        "kayıtlog": "Kayıt log kanalı id"
+    },
+    "roles": {
+        "booster": "Booster rolü id",
+        "vip": "Vip rolü id",
+        "sponsor": "Sponsor rolü id",
+        "müzisyen": "Müzisyen rolü id",
+        "team": "Taglı rolü id"
+    },
+    "channels": {
+        "chat": "Chat kanalı id",
+        "voicechannel": "Bot ses kanalı id",
+        "welcomechannel": "Hoş geldin kanalı id",
+        "rules": "Kurallar kanalı id"
+    },
+    "registration": {
+        "unregistered": "Kayıtsız rolü id",
+        "man": ["Erkek rolü id", "Erkek rolü id 2 (yoksa tırnağı sil)"],
+        "woman": ["Kadınrolü id", "Kadın rolü id 2 (yoksa tırnağı sil)"],
+		"botcommands": "Bot komut kullanıcısı rolü id",
+        "staff": "Kayıt görevlisi rolü id",
+        "GuilDTag": "Sunucu tagınız",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "Şüpheli hespa rolü id",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "oneman": "Ana erkek rolü id",
+        "onewoman": "Ana kadın rolü id",
+        "GuildDiscrim": "Sunucu etiket tagınız",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "Sunucu id",
+        "GuilDName": "Sunucu adı",
+        "GuildOwnerRole": ["Sunucu kurucu rolü id"]
+    },
+    "emojis": {
+        "tada": "Çekiliş emojisi",
+        "yes": "Onay emojisi",
+        "no": "Red emojisi"
+        }
+    }
