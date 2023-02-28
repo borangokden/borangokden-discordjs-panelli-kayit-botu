@@ -4,9 +4,9 @@
   "description": "Boran Gökden tarafından kodlanan butonlu kayıt botu.",
   "main": "borangökden.js",
   "scripts": {
-    "start": "node borangökden.js"
+    "start": "node borangokden.js"
   },
-  "author": "BoranGkdn",
+  "author": "borangokden",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
@@ -25,6 +25,6 @@
     "quick.db": "^7.1.3"
   },
   "keywords": [
-    "Boran Gökden"
+    "borangokden"
   ]
 }
