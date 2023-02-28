@@ -2,5 +2,5 @@ echo off
 color 0f
 cls
 :a
-node borangkdn.js
+node borangokden.js
 goto a
